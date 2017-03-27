@@ -126,7 +126,6 @@
   },
   "scripts": {
     "lint": "tslint ./src/**.ts -t verbose",
-    "prepublish": "ngc -p tsconfig.aot.json",
     "test": "karma start",
     "tsc": "tsc",
     "tsc-test": "cd tests && tsc",
