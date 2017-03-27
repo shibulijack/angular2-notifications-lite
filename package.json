@@ -1,0 +1,137 @@
+{
+  "_args": [
+    [{
+        "raw": "angular2-notifications-lite@0.1.0",
+        "scope": null,
+        "escapedName": "angular2-notifications-lite",
+        "name": "angular2-notifications-lite",
+        "rawSpec": "0.1.0",
+        "spec": "0.1.0",
+        "type": "version"
+      },
+      "/Users/shibulijack/Projects/Personal/charizard"
+    ]
+  ],
+  "_from": "angular2-notifications-lite@0.1.0",
+  "_id": "angular2-notifications-lite@0.1.0",
+  "_inCache": true,
+  "_location": "/angular2-notifications-lite",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/angular2-notifications-lite-0.1.0.tgz_1486207763446_0.18195061129517853"
+  },
+  "_npmUser": {
+    "name": "shibulijack",
+    "email": "shibulijack@gmail.com"
+  },
+  "_npmVersion": "4.0.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular2-notifications-lite@0.1.0",
+    "scope": null,
+    "escapedName": "angular2-notifications-lite",
+    "name": "angular2-notifications-lite",
+    "rawSpec": "0.1.0",
+    "spec": "0.1.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.0.tgz",
+  "_shasum": "d308f1a10a58723a7fa68b488b855473b6d12f32",
+  "_shrinkwrap": null,
+  "_spec": "angular2-notifications-lite@0.1.0",
+  "_where": "/Users/shibulijack/Projects/Personal/charizard",
+  "author": {
+    "name": "shibulijack@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shibulijack/angular2-notifications-lite/issues"
+  },
+  "dependencies": {},
+  "description": "An easy to use notification library for angular 2, without animations.",
+  "devDependencies": {
+    "@angular/common": "^2.1.2",
+    "@angular/compiler": "^2.1.2",
+    "@angular/compiler-cli": "^2.1.2",
+    "@angular/core": "^2.1.2",
+    "@angular/platform-browser": "^2.1.2",
+    "@angular/platform-browser-dynamic": "^2.0.1",
+    "@types/core-js": "^0.9.34",
+    "@types/jasmine": "^2.5.36",
+    "@types/node": "^6.0.46",
+    "angular-in-memory-web-api": "^0.1.13",
+    "awesome-typescript-loader": "^2.2.4",
+    "browser-sync": "^2.14.0",
+    "core-js": "^2.4.1",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-delete-lines": "0.0.7",
+    "istanbul-instrumenter-loader": "0.2.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-mocha-reporter": "^2.2.0",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^1.8.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.12",
+    "source-map-loader": "^0.1.5",
+    "systemjs": "^0.19.39",
+    "ts-helpers": "1.1.1",
+    "tslint": "^3.15.1",
+    "tslint-loader": "2.1.5",
+    "typescript": "2.0.10",
+    "typings": "^1.3.2",
+    "webpack": "^1.13.2",
+    "zone.js": "^0.6.23"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d308f1a10a58723a7fa68b488b855473b6d12f32",
+    "tarball": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.0.tgz"
+  },
+  "gitHead": "100d7fbe9c94346ca58a2be6a46675218d8b4129",
+  "homepage": "https://github.com/shibulijack/angular2-notifications-lite",
+  "keywords": [
+    "Angular",
+    "2",
+    "Library",
+    "Notifications",
+    "Notification",
+    "Toast"
+  ],
+  "license": "MIT",
+  "main": "./components.js",
+  "maintainers": [{
+    "name": "shibulijack",
+    "email": "shibulijack@gmail.com"
+  }],
+  "name": "angular2-notifications-lite",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "^2.1.2",
+    "@angular/common": "^2.1.2",
+    "@angular/platform-browser": "^2.1.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibulijack/angular2-notifications-lite.git"
+  },
+  "scripts": {
+    "lint": "tslint ./src/**.ts -t verbose",
+    "prepublish": "ngc -p tsconfig.aot.json",
+    "test": "karma start",
+    "tsc": "tsc",
+    "tsc-test": "cd tests && tsc",
+    "tsc:aot": "ngc -p tsconfig.aot.json"
+  },
+  "typings": "./components.d.ts",
+  "version": "0.1.0"
+}
