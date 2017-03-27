@@ -1,6 +1,7 @@
 {
   "_args": [
-    [{
+    [
+      {
         "raw": "angular2-notifications-lite@0.1.1",
         "scope": null,
         "escapedName": "angular2-notifications-lite",
@@ -108,10 +109,12 @@
   ],
   "license": "MIT",
   "main": "./components.js",
-  "maintainers": [{
-    "name": "shibulijack",
-    "email": "shibulijack@gmail.com"
-  }],
+  "maintainers": [
+    {
+      "name": "shibulijack",
+      "email": "shibulijack@gmail.com"
+    }
+  ],
   "name": "angular2-notifications-lite",
   "optionalDependencies": {},
   "peerDependencies": {
@@ -132,5 +135,5 @@
     "tsc:aot": "ngc -p tsconfig.aot.json"
   },
   "typings": "./components.d.ts",
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
