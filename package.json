@@ -1,25 +1,25 @@
 {
   "_args": [
     [{
-        "raw": "angular2-notifications-lite@0.1.0",
+        "raw": "angular2-notifications-lite@0.1.1",
         "scope": null,
         "escapedName": "angular2-notifications-lite",
         "name": "angular2-notifications-lite",
-        "rawSpec": "0.1.0",
-        "spec": "0.1.0",
+        "rawSpec": "0.1.1",
+        "spec": "0.1.1",
         "type": "version"
       },
       "/Users/shibulijack/Projects/Personal/charizard"
     ]
   ],
-  "_from": "angular2-notifications-lite@0.1.0",
-  "_id": "angular2-notifications-lite@0.1.0",
+  "_from": "angular2-notifications-lite@0.1.1",
+  "_id": "angular2-notifications-lite@0.1.1",
   "_inCache": true,
   "_location": "/angular2-notifications-lite",
   "_nodeVersion": "6.5.0",
   "_npmOperationalInternal": {
     "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/angular2-notifications-lite-0.1.0.tgz_1486207763446_0.18195061129517853"
+    "tmp": "tmp/angular2-notifications-lite-0.1.1.tgz_1486207763446_0.18195061129517853"
   },
   "_npmUser": {
     "name": "shibulijack",
@@ -28,21 +28,21 @@
   "_npmVersion": "4.0.1",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "angular2-notifications-lite@0.1.0",
+    "raw": "angular2-notifications-lite@0.1.1",
     "scope": null,
     "escapedName": "angular2-notifications-lite",
     "name": "angular2-notifications-lite",
-    "rawSpec": "0.1.0",
-    "spec": "0.1.0",
+    "rawSpec": "0.1.1",
+    "spec": "0.1.1",
     "type": "version"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.0.tgz",
+  "_resolved": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.1.tgz",
   "_shasum": "d308f1a10a58723a7fa68b488b855473b6d12f32",
   "_shrinkwrap": null,
-  "_spec": "angular2-notifications-lite@0.1.0",
+  "_spec": "angular2-notifications-lite@0.1.1",
   "_where": "/Users/shibulijack/Projects/Personal/charizard",
   "author": {
     "name": "shibulijack@gmail.com"
@@ -94,7 +94,7 @@
   "directories": {},
   "dist": {
     "shasum": "d308f1a10a58723a7fa68b488b855473b6d12f32",
-    "tarball": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.0.tgz"
+    "tarball": "https://registry.npmjs.org/angular2-notifications-lite/-/angular2-notifications-lite-0.1.1.tgz"
   },
   "gitHead": "100d7fbe9c94346ca58a2be6a46675218d8b4129",
   "homepage": "https://github.com/shibulijack/angular2-notifications-lite",
@@ -132,5 +132,5 @@
     "tsc:aot": "ngc -p tsconfig.aot.json"
   },
   "typings": "./components.d.ts",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
